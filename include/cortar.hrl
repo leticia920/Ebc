@@ -1,0 +1,1 @@
+-define(Cortar(Node),re:split(atom_to_list(Node),"[@]",[{return,list}])).
