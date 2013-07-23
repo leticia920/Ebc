@@ -114,7 +114,7 @@ And only pc2 receives the message.
 Author
 ====
 
-    Leticia Hernàndez Villanueva <leticia.hvillanueva@gmail.com>.
+Leticia Hernàndez Villanueva <leticia.hvillanueva@gmail.com>.
 
 License
 ====
